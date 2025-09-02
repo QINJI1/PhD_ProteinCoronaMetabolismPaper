@@ -1,5 +1,5 @@
-# PhD-EC_transport_paper
+# PhD-ProteinCoronaMetabolismPaper
 
 Runscript.m 
 roipoly_multi.m
-  -Scripts used in the paper titled "The pathways for nanoparticle transport across tumour endothelium" to determine the % colocalization of particle signal to probe signal for the intravital data found in the paper
+  -Scripts used in the paper titled "Degraded Nanoparticle Protein Corona Byproducts Contributes to Cancer Cell Biosynthesis" to determine the % colocalization of particle signal to lysosome signal for the confocal data found in the paper
