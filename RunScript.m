@@ -1,7 +1,7 @@
 clc
 clear al
 
-filename = 'M1_1stVid_t199c1-3.tif';
+filename = '';
 tif_image = imread(filename); %RGB, R = (:,:,1), G = (:, :, 2), B = (:,:,3)
 
 NP_image_path = tif_image(:,:,2);
@@ -33,4 +33,5 @@ saveas(f3, strcat(erase(filename,'.tif'),' Overlaid AuNP mask on thresholded dex
 %figure()
 %imagesc(pathway_probe_channel)
 %figure()
+
 %imagesc(pathway_probe_threshold)
